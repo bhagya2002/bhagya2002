@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋  I'm Bhagya Patel (he/him)
 
-<!--
-**bhagya2002/bhagya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Engineering at the University of Alberta with an interest in Software Engineering. Currently I enjoy Full Stack Web Development and machine learning!</br></br>
+Check out my work at [bhagya.codes](https://bhagya.codes/) :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 What am I currently doing ... </br>
+  Studying general engineering and working on side projects. </br>
+- 🌱 I’m currently learning ... </br>
+  Started to learn Python to explore machine learning. </br>
+- 📫 How to reach me: ... </br>
+[LinkedIn](https://www.linkedin.com/in/bhagyap/) | [Instagram](https://www.instagram.com/look_its_bhagya/)
