@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Bhagya Patel (he/him)
+## Hi there 👋 </br> I'm Bhagya Patel (he/him)
 
 I'm studying Engineering at the University of Alberta with an interest in Software Engineering. Currently I enjoy Full Stack Web Development and machine learning!</br></br>
 Check out my work at [bhagya.codes](https://bhagya.codes/) :)
