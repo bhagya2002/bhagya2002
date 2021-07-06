@@ -14,7 +14,7 @@ I'm a student at the University of Alberta pursuing a Bachelor of Applied Scienc
 
 Currently, I'm a SWE intern at DevFacto Technologies based in Edmonton, AB. I am also a member of Future Creators, a student-run non-profit organization at the university that provides resources and mentorship to young innovators to help bring their innovations to life.
 
-I enjoy Full Stack Web Development and plan to dive into machine learning in the near future! On my own time, I'm exploring various Database systems focussing on small-scale applications.  
+I enjoy Full Stack Web Development and plan to dive into Machine Learning in the near future! On my own time, I'm exploring various Database Systems focussing on small-scale applications.  
 
 In my free time, I enjoy hanging out with friends, playing sports competitively (mainly soccer), and going on hikes!
 I'm studying Engineering at the University of Alberta with an interest in Software Engineering. Currently </br></br>
