@@ -5,7 +5,7 @@
   "name": "Bhagya Patel",
   "location": "Edmonton, Canada",
   "bio": "uofa software engineering '25 // developer/mentor/project manager @future creators",
-  "currently": "looking for summer 2022 internships",
+  "currently": "seeking summer 2022 internships",
   "previously": "software engineer intern @devfacto technologies",
   "brief me": "passion for up and coming technologies"
  }
