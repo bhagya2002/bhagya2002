@@ -18,8 +18,7 @@ Currently, I am looking for summer 2022 SWE internships! Previously I was a SWE 
 
 I enjoy Full Stack Web Development and plan to dive into Machine Learning in the near future! On my own time, I'm exploring various Database Systems focussing on small-scale applications.  
 
-In my free time, I enjoy hanging out with friends, playing sports competitively (mainly soccer), and going on hikes!
-I'm studying Engineering at the University of Alberta with an interest in Software Engineering. Currently </br></br>
+In my free time, I enjoy hanging out with friends, playing sports competitively (mainly soccer), and going on hikes! </br></br>
 Check out my portfolio at [bhagya.codes](https://bhagya.codes/) :)
 
 [LinkedIn](https://www.linkedin.com/in/bhagyap/) | [Instagram](https://www.instagram.com/look_its_bhagya/)
