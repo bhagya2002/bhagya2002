@@ -8,14 +8,10 @@
   "role": "microsoft learn student ambassador",
   "currently": "swe intern @atb",
   "previously": "swe intern @devfacto technologies",
-  "brief me": "passion for up and coming technologies"
+  "brief me": "passion for up and coming technologies",
+  "searching": "winter 2023 4/8 month co-op positions"
  }
 ```
-
-### About Me
-Actively seeking winter 2023 SWE internships! Currently, I am at ATB as a SWE intern based in Edmonton, AB.
-
-I enjoy Full Stack Web Development and plan to dive into Machine Learning in the near future!
 
 <!-- website promo -->
 Check out my portfolio at [bhagya.codes](https://bhagya.codes/) :)
