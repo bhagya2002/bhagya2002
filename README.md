@@ -6,10 +6,10 @@
   "location": "edmonton, canada",
   "bio": "uofa software engineering '25 // developer/project manager @future creators",
   "role": "microsoft learn student ambassador",
-  "currently": "swe intern @atb",
-  "previously": "swe intern @devfacto technologies",
+  "currently": "swe contractor @atb financial",
+  "previously": "swe intern @atb financial",
   "brief me": "passion for up and coming technologies",
-  "searching": "winter 2023 4/8 month co-op positions"
+  "searching": "summer 2024 4/8 month co-op positions"
  }
 ```
 
